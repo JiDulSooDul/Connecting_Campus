@@ -6,25 +6,25 @@ using UnityEngine.SceneManagement;
  
 public class player : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public GameObject Pill;
     void Start()
     {
-        
+        //Pill = GameObject.Find("Pill Bottle");
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
     
     private void OnCollisionEnter(Collision collision)
         {
-            
-            if (collision.gameObject.CompareTag("Door"))
+            if (collision.gameObject.CompareTag("door"))
             {
                 SceneManager.LoadScene("Main");
                 Time.timeScale = 1;
+            }
+
+            if (collision.gameObject.CompareTag("pill"))
+            {
+                Time.timeScale = 1;
+                Pill.SetActive(false);
             }
         }
 }
