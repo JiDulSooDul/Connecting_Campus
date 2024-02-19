@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - ObjectA
+  - ICT4
+  - Aging1
+  - ICTDOOR2
+  - Move
+  - Aging2
+  - Hand
+  - ICT3
+  - Watch
+  - AgingDoor
+  - ICTDOOR
+  - reception
+  - ICT2
+  - Move1
+  - Kiosk
+  - door
+  - pill
+  - paper
+  - DNA_device
+  - landmark
+  - Exit
+  - trigger
+  - drspot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Hands
+  - Interactive
+  - 
+  - Watch
+  - Grab
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
