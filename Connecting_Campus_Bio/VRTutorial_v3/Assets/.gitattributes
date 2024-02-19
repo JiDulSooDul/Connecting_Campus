@@ -1,1 +1,4 @@
 Textures/ filter=lfs diff=lfs merge=lfs -text
+3. filter=lfs diff=lfs merge=lfs -text
+Modelings/ filter=lfs diff=lfs merge=lfs -text
+3.Modelings/ filter=lfs diff=lfs merge=lfs -text
