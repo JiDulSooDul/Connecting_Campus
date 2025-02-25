@@ -1,7 +1,7 @@
 # Connecting Campus (Bio-health Univ.)
 
 ### 🧬결과물
-🎞️시연 영상 링크 : https://drive.google.com/file/d/19-t2gggUxyj_2o9AWDywLNvBaQqQONQK/view?usp=sharing
+🎞️시연 영상 링크 : https://youtu.be/VV_4Uh444bY
 
 ![image](https://github.com/JiDulSooDul/Connecting_Campus/assets/80036437/ecd0961b-e121-476a-8ff2-14f7386f5d8b)
 ![image](https://github.com/JiDulSooDul/Connecting_Campus/assets/80036437/71a0e1fa-07b0-4688-b1f5-bffdbadee041)
